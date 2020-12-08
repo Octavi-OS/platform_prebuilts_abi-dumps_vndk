@@ -15061,7 +15061,7 @@
      "referenced_type" : "_ZTIPN7android8BpBinderE"
     },
     {
-     "referenced_type" : "_ZTIRKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.30_arm64_armv8-a_shared/obj/frameworks/native/libs/binder/BpBinder.sdump"
+     "referenced_type" : "_ZTIRKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:/out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.30_arm64_armv8-a_cortex-a73_shared/obj/frameworks/native/libs/binder/BpBinder.sdump"
     },
     {
      "default_arg" : true,
@@ -21600,8 +21600,8 @@
    "alignment" : 8,
    "linker_set_key" : "_ZTIRKN7android2spINS_7IBinder14DeathRecipientEEE",
    "name" : "const android::sp<android::IBinder::DeathRecipient> &",
-   "referenced_type" : "_ZTIKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.30_arm64_armv8-a_shared/obj/frameworks/native/libs/binder/BpBinder.sdump",
-   "self_type" : "_ZTIRKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.30_arm64_armv8-a_shared/obj/frameworks/native/libs/binder/BpBinder.sdump",
+   "referenced_type" : "_ZTIKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:/out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.30_arm64_armv8-a_cortex-a73_shared/obj/frameworks/native/libs/binder/BpBinder.sdump",
+   "self_type" : "_ZTIRKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:/out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.30_arm64_armv8-a_cortex-a73_shared/obj/frameworks/native/libs/binder/BpBinder.sdump",
    "size" : 8,
    "source_file" : "/system/core/libutils/include/utils/RefBase.h"
   },
@@ -23223,7 +23223,7 @@
    "alignment" : 8,
    "linker_set_key" : "_ZTIPKN7android2spINS_7IBinder14DeathRecipientEEE",
    "name" : "const android::sp<android::IBinder::DeathRecipient> *",
-   "referenced_type" : "_ZTIKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.30_arm64_armv8-a_shared/obj/frameworks/native/libs/binder/BpBinder.sdump",
+   "referenced_type" : "_ZTIKN7android2spINS_7IBinder14DeathRecipientEEE#ODR:/out/soong/.intermediates/frameworks/native/libs/binder/libbinder/android_vendor.30_arm64_armv8-a_cortex-a73_shared/obj/frameworks/native/libs/binder/BpBinder.sdump",
    "self_type" : "_ZTIPKN7android2spINS_7IBinder14DeathRecipientEEE",
    "size" : 8,
    "source_file" : "/system/core/libutils/include/utils/StrongPointer.h"
